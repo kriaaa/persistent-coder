@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Riya! 👋
 
-<!--
-**persistent-coder/persistent-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and constantly striving to learn and improve my skills. Feel free to explore my repositories and projects. 🚀
 
-Here are some ideas to get you started:
+## GitHub Streak 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=persistent-coder)
+
+## Commit Graph 📈
+
+📊 [![Commit Graph](https://activity-graph.herokuapp.com/graph?username=persistent-coder&theme=github)](https://github.com/persistent-coder)
+
+## Connect with Me 🌐
+
+You can find me on various platforms. Let's connect and collaborate! 🤝
+
+- 🌐 [Website](https://www.persistentcoder.com)
+- 🐦 [Twitter](https://twitter.com/persistentcoder)
+- 💼 [LinkedIn](https://www.linkedin.com/in/persistentcoder)
+- 📸 [Instagram](https://www.instagram.com/persistentcoder)
+- ✍️ [Dev.to](https://dev.to/persistentcoder)
+- 🎥 [YouTube](https://www.youtube.com/c/persistentcoder)
+
+Feel free to reach out to me if you have any questions or just want to say hi! 😄
